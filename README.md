@@ -1,4 +1,4 @@
-"# RE20-Respirator-HW" 
+# RE20-Respirator-HW
 
 All the files in this directory (and its subdirectories) are subject to
 the CERN-OHL-S v2 licence.
