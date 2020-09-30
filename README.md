@@ -17,3 +17,5 @@ for applicable conditions.
 
 This repository contains the Design files for the CAD and Electronic elements 
 of the RE20-Respirator project.
+
+For a description of the project, please refer to the [Readme of the RE20-Respirator-SW project](https://github.com/grouperenault/RE20-Respirator-SW/blob/master/README.md).
